@@ -1,0 +1,24 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-01 15:05:52 --> Severity: Notice --> Undefined variable: string /var/www/gwe_socket_restciapi4/appx/controllers/Hello.php 84
+ERROR - 2021-12-01 15:25:39 --> Severity: Error --> Class 'REST_Controller' not found /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 20
+ERROR - 2021-12-01 15:27:35 --> Severity: error --> Exception: Too few arguments to function Enc_Decrypt::encrypt_decrypt(), 0 passed in /var/www/gwe_socket_restciapi4/sysx/core/CodeIgniter.php on line 532 and exactly 4 expected /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 37
+ERROR - 2021-12-01 15:29:20 --> Severity: error --> Exception: Too few arguments to function Enc_Decrypt::encrypt_decrypt(), 0 passed in /var/www/gwe_socket_restciapi4/sysx/core/CodeIgniter.php on line 532 and exactly 4 expected /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 38
+ERROR - 2021-12-01 15:56:33 --> Severity: Notice --> Undefined property: Enc_Decrypt::$usr_secret /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 33
+ERROR - 2021-12-01 16:14:34 --> Severity: Notice --> Undefined property: Enc_Decrypt::$encrypt_method /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 76
+ERROR - 2021-12-01 16:14:34 --> Severity: Warning --> openssl_decrypt(): Unknown cipher algorithm /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 76
+ERROR - 2021-12-01 16:14:34 --> Severity: Notice --> Undefined property: Enc_Decrypt::$access_token /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 45
+ERROR - 2021-12-01 16:14:34 --> Severity: Notice --> Undefined property: Enc_Decrypt::$refresh_token /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 46
+ERROR - 2021-12-01 16:15:29 --> Severity: Notice --> Undefined property: Enc_Decrypt::$access_token /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 45
+ERROR - 2021-12-01 16:15:29 --> Severity: Notice --> Undefined property: Enc_Decrypt::$refresh_token /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 46
+ERROR - 2021-12-01 16:15:31 --> Severity: Notice --> Undefined property: Enc_Decrypt::$access_token /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 45
+ERROR - 2021-12-01 16:15:31 --> Severity: Notice --> Undefined property: Enc_Decrypt::$refresh_token /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 46
+ERROR - 2021-12-01 17:14:12 --> Severity: Notice --> Undefined property: Enc_Decrypt::$encrypt_decrypt_method /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 192
+ERROR - 2021-12-01 17:14:12 --> Severity: Warning --> openssl_decrypt(): Unknown cipher algorithm /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 192
+ERROR - 2021-12-01 17:18:40 --> Severity: Notice --> Undefined property: Enc_Decrypt::$encrypt_decrypt_method /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 192
+ERROR - 2021-12-01 17:18:40 --> Severity: Warning --> openssl_decrypt(): Unknown cipher algorithm /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 192
+ERROR - 2021-12-01 17:24:51 --> Severity: Warning --> Declaration of Enc_Decrypt::encrypt_decrypt($method, $encrpt_dscrpt_str, $action, $usr_key, $usr_secret) should be compatible with REST_Controller::encrypt_decrypt($enc_dcr_str, $action, $usr_key, $usr_secret) /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 21
+ERROR - 2021-12-01 17:24:53 --> Severity: Warning --> Declaration of Enc_Decrypt::encrypt_decrypt($method, $encrpt_dscrpt_str, $action, $usr_key, $usr_secret) should be compatible with REST_Controller::encrypt_decrypt($enc_dcr_str, $action, $usr_key, $usr_secret) /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 21
+ERROR - 2021-12-01 17:29:01 --> Severity: Warning --> Declaration of Enc_Decrypt::encrypt_decrypt($method, $encrpt_dscrpt_str, $action, $usr_key, $usr_secret) should be compatible with REST_Controller::encrypt_decrypt($enc_dcr_str, $action, $usr_key, $usr_secret) /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 21
+ERROR - 2021-12-01 17:31:03 --> Severity: Warning --> Declaration of Enc_Decrypt::encrypt_decrypt($method, $encrpt_dscrpt_str, $action, $usr_key, $usr_secret) should be compatible with REST_Controller::encrypt_decrypt($enc_dcr_str, $action, $usr_key, $usr_secret) /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 21
+ERROR - 2021-12-01 17:33:08 --> Severity: Warning --> Declaration of Enc_Decrypt::encrypt_decrypt($method, $encrpt_dscrpt_str, $action, $usr_key, $usr_secret) should be compatible with REST_Controller::encrypt_decrypt($enc_dcr_str, $action, $usr_key, $usr_secret) /var/www/gwe_socket_restciapi4/appx/controllers/Enc_Decrypt.php 21
