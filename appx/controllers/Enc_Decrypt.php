@@ -1,19 +1,24 @@
 <?php
 /*
- * Copyright © 2019  Neoark Software Pvt Ltd. All rights reserved.
- * @Description: The code of the released software  Gowithexperts, does NOT lie under
- * GLP (General Public License) But it has proprietary copyrights.  The purpose of the
- * Informing for public that, the Gowithexperts app (also known as GWE) is protected by
- * The mentioned copyrights.
+ *  Copyright (c) 2021 Neoark
  *
- * @Version: Gwe - 1.0
- * @Author: Raj Khurana
- * @Address: Plot #8, Street #1, Ganga Sahay Colony (Near Govt Senior Secondary
- * School), Mandoli (Industrial Area) North East Delhi - 110093 (India)
- * @Email: sales@neoarksoftware.com | gowithexperts24x7suport@gmail.com
- * @website: www.gowithexperts.com
- * @Phone: +91-880-090-0164
- * Date: 23rd August, 2019
+ *  Permission is hereby granted, free of charge, to any person obtaining a copy
+ *  of this software and associated documentation files (the "Software"), to deal
+ *  in the Software without restriction, including without limitation the rights
+ *  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ *  copies of the Software, and to permit persons to whom the Software is
+ *  furnished to do so, subject to the following conditions:
+ *
+ *  The above copyright notice and this permission notice shall be included in all
+ *  copies or substantial portions of the Software.
+ *
+ *  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ *  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ *  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ *  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ *  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ *  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ *  SOFTWARE.
  */
 
 require APPPATH . '/libraries/REST_Controller.php';
